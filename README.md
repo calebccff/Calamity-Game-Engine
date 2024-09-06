@@ -79,8 +79,8 @@ To get a local copy, either download the repository or (if you have git) use the
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/adamsch60/Calamity-Game-Engine
+    cd Calamity-Game-Engine
     ```
 
 
